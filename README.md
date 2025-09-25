@@ -29,8 +29,6 @@ jalali-converter-php/
 │ └─ JalaliConverterTest.php
 
 yaml
-Copy code
-
 ---
 
 ## 🚀 نصب و اجرا
